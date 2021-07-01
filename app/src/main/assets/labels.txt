@@ -1,0 +1,11 @@
+10 rupees new
+10 rupees old
+100 rupees new
+100 rupees old
+20 rupees new
+20 rupees old
+200 rupees
+2000 rupees
+50 rupees new
+50 rupees old
+500 rupees
